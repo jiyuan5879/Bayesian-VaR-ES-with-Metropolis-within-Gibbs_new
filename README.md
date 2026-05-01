@@ -1,6 +1,9 @@
 # Estimation of Value-at-Risk and Expected Shortfall  
 ### Using Bayesian Student-t Modeling and Metropolis-within-Gibbs Sampling
 
+Contributors: Jiyuan Liu, Qiuyun Wang, Wenxi Ge, Yilai Qian
+
+
 ## Overview
 
 This project develops a Bayesian framework for modeling financial return distributions and estimating extreme downside risk. Using daily log returns of the S&P 500 index, we apply a Student-t model to capture heavy-tailed behavior commonly observed in financial markets.
