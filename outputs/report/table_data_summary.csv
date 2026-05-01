@@ -1,0 +1,2 @@
+n_obs,start_date,end_date,mean_daily_log_return,sd_daily_log_return,annualized_mean_log_return,annualized_volatility,min_daily_log_return,max_daily_log_return
+751,2023-04-03,2026-03-31,0.0006164116380154518,0.009345980960854702,0.15533573277989385,0.14836284828219617,-0.0616090736758802,0.0908949016487148
